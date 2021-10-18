@@ -1,0 +1,3 @@
+[submodule "Documents/Regex-JS/Documents/Regex-JS/regexp"]
+	path = Documents/Regex-JS/Documents/Regex-JS/regexp
+	url = https://github.com/luizomf/regexp.git
